@@ -3,6 +3,9 @@
   "description": "Dev - Review Apps Environment",
   "scripts": {
   },
+  "env": {
+    "ENV": "DEV"
+  },
   "formation": {
     "web": {
       "quantity": 1
